@@ -1,0 +1,32 @@
+.panda-bg-slide {
+    background-color: #fceae8;
+}
+
+.panda-button-bg {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.panda-subscribe {
+    background-color: #fceae8;
+}
+
+.panda-cat-watch {
+    background-color: #ffa500;
+    padding: 10px 30px;
+    border-radius: 10px
+}
+
+.panda-cat-bag {
+    background-color: #da70d6;
+    padding: 10px 30px;
+    border-radius: 10px
+}
+
+.panda-cat-shoe {
+    background-color: #0000ff;
+    padding: 10px 30px;
+    border-radius: 10px
+}
